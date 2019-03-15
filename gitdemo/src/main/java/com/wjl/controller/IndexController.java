@@ -1,6 +1,9 @@
 package com.wjl.controller;
 
-////
-public class IndexController {
+import org.springframework.stereotype.Controller;
 
+////
+@Controller
+public class IndexController {
+ //dengdai s
 }
